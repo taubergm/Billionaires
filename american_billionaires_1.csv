@@ -1,0 +1,506 @@
+2018_rank,name,2018_net_worth,2018_age,2018_source,2018_country,2020_rank,2020_net_worth,2020_age,2020_country,2020_source,2020_broad_source,2018_industry,founder,some_wealth_inheritance,major_wealth_inheritance,ethnicity,misc,gender_x
+1,jeff bezos,131,55,amazon,united states,1,113,56,united states,amazon,technology,tech,yes,no,no,white,,male
+2,bill gates,96.5,63,microsoft,united states,2,98,64,united states,microsoft,technology,tech,yes,no,no,white,,male
+3,warren buffett,82.5,88,berkshire hathaway,united states,4,67.5,89,united states,berkshire hathaway,finance & investments,investment,no,no,no,white,,male
+7,larry ellison,62.5,74,software,united states,5,59,75,united states,software,technology,tech,yes,no,no,white,jewish,male
+8,mark zuckerberg,62.3,35,facebook,united states,7,54.7,35,united states,facebook,technology,tech,yes,no,no,white,jewish,male
+16,jim walton,44.6,71,walmart,united states,8,54.6,71,united states,walmart,fashion & retail,retail,no,yes,yes,white,,male
+17,alice walton,44.4,69,walmart,united states,9,54.4,69,united states,walmart,fashion & retail,retail,no,yes,yes,white,,female
+17,alice walton,44.4,69,walmart,united states,16,54.4,70,united states,walmart,fashion & retail,retail,no,yes,yes,white,,female
+18,rob walton,44.3,74,walmart,united states,17,54.1,75,united states,walmart,fashion & retail,retail,no,yes,yes,white,,male
+19,steve ballmer,41.2,63,microsoft,united states,18,52.7,64,united states,microsoft,technology,tech,yes,no,no,white,,male
+10,larry page,50.8,46,google,united states,20,50.9,47,united states,google,technology,tech,yes,no,no,white,jewish,male
+14,sergey brin,49.8,45,google,united states,10,49.1,46,united states,google,technology,tech,yes,no,no,white,,male
+9,michael bloomberg,55.5,77,bloomberg lp,united states,14,48,78,united states,bloomberg lp,media & entertainment,tech,yes,no,no,white,jewish,male
+11,charles koch,50.5,83,koch industries,united states,9,38.2,84,united states,koch industries,diversified,heavy industry,no,yes,no,white,,male
+24,sheldon adelson,35.1,85,casinos,united states,11,26.8,86,united states,casinos,gambling & casinos,gambling,yes,no,no,white,jewish,male
+33,jacqueline mars,23.9,79,candy,united states,29,24.7,80,yes,candy,pet food,food,no,yes,yes,white,,female
+33,jacqueline mars,23.9,79,candy,united states,29,24.7,80,united states,candy,pet food,food,no,yes,yes,white,,female
+33,john mars,23.9,83,candy,united states,35,24.7,84,united states,candy,pet food,food,no,yes,yes,white,,male
+40,elon musk,22.3,48,tesla motors,united states,36,24.6,48,united states,tesla,spacex,automotive,yes,no,no,white,,male
+25,michael dell,34.3,54,dell computers,united states,44,22.9,55,united states,dell computers,technology,tech,yes,no,no,white,jewish,male
+44,jim simons,21.5,81,hedge funds,united states,29,21.6,81,united states,hedge funds,finance & investments,finance,no,no,no,white,,male
+75,lukas walton,15.2,32,walmart,united states,46,18.4,33,united states,walmart,fashion & retail,retail,no,yes,yes,white,,male
+57,ray dalio,18.4,69,hedge funds,united states,81,18,70,united states,hedge funds,finance & investments,investment,yes,no,no,white,,male
+59,len blavatnik,17.7,62,diversified,united states,59,17,62,united states,diversified,diversified,investment,no,no,no,white,jewish,male
+68,donald bren,16.4,87,real estate,united states,63,15.5,87,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+100,stephen schwarzman,13.2,72,investments,united states,72,15.4,73,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+82,leonard lauder,14.6,82,estee lauder,united states,101,14.6,83,united states,estee lauder,fashion & retail,fashion,no,yes,yes,white,jewish,male
+63,thomas peterffy,17.1,74,discount brokerage,united states,85,14.3,75,united states,discount brokerage,finance & investments,finance,yes,no,no,white,,male
+101,steve cohen,12.9,63,hedge funds,united states,65,13.9,63,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+61,carl icahn,17.4,83,investments,united states,103,13.8,84,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+101,eric schmidt,12.9,64,google,united states,65,13.2,64,united states,google,technology,tech,no,no,no,white,,male
+117,ken griffin,11.7,50,hedge funds,united states,105,12.1,51,united states,hedge funds,finance & investments,investment,yes,yes,no,white,,male
+118,david tepper,11.6,61,hedge funds,united states,118,12,62,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+120,pierre omidyar,11.4,52,ebay,united states,118,11,52,united states,ebay,paypal,tech,yes,no,no,middle eastern,,male
+128,philip anschutz,10.9,79,investments,united states,124,11,80,united states,investments,finance & investments,investment,no,yes,no,white,,male
+114,donald newhouse,11.8,89,media,united states,75,10.8,90,united states,media,media & entertainment,media,no,yes,yes,white,,female
+114,donald newhouse,11.8,89,media,united states,124,10.8,90,united states,media,media & entertainment,media,no,yes,yes,white,,male
+71,abigail johnson,15.6,57,money management,united states,129,10.8,58,united states,money management,finance & investments,finance,no,yes,yes,white,,female
+224,hank & doug meijer,6.8,67,supermarkets,united states,118,10.2,,united states,supermarkets,fashion & retail,retail,no,yes,yes,white,,male
+167,stanley kroenke,8.7,71,sports,united states,224,10,72,united states,sports,real estate,real estate,no,yes,yes,white,,male
+140,gordon moore,9.7,90,intel,united states,169,9.8,91,united states,intel,technology,tech,yes,no,no,white,,male
+143,jan koum,9.6,43,whatsapp,united states,145,9.7,44,united states,whatsapp,technology,tech,yes,no,no,white,jewish,male
+122,dustin moskovitz,11.1,35,facebook,united states,147,9.3,35,united states,facebook,technology,tech,yes,no,no,white,jewish,male
+160,sun hongbin,9,56,real estate,united states,127,9.2,57,united states,real estate,real estate,real estate,yes,no,no,asian,,male
+203,christy walton,7.2,70,walmart,united states,165,8.9,71,united states,walmart,fashion & retail,retail,no,yes,yes,white,,male
+178,george soros,8.3,88,hedge funds,united states,205,8.3,89,united states,hedge funds,finance & investments,finance,no,no,no,white,jewish,male
+224,jerry jones,6.8,76,dallas cowboys,united states,179,8,77,united states,dallas cowboys,sports,sports,no,yes,no,white,,male
+178,carl cook,8.3,56,medical devices,united states,183,8,57,united states,medical devices,healthcare,healthcare,no,yes,yes,white,,male
+244,ann walton kroenke,6.5,70,walmart,united states,162,7.9,71,united states,walmart,fashion & retail,retail,no,yes,yes,white,,female
+158,andrew beal,9.1,66,banks,united states,224,7.9,67,united states,banks,real estate,finance,yes,no,no,white,,female
+224,shahid khan,6.8,69,auto parts,united states,248,7.8,69,united states,auto parts,automotive,automotive,yes,no,no,asian,pakistani,male
+153,blair parry-okeden,9.3,69,media,united states,157,7.6,69,united states,media,automotive,media,no,yes,yes,white,,male
+187,david geffen,7.8,76,movies,united states,159,7.6,77,united states,movies,record labels,media,yes,no,no,white,,male
+191,stephen ross,7.6,79,real estate,united states,185,7.6,79,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+153,jim kennedy,9.3,71,media,united states,224,7.6,72,united states,media,automotive,media,no,yes,yes,white,,male
+114,david duffield,11.8,78,business software,united states,193,7.5,79,united states,business software,technology,tech,yes,no,no,white,,male
+209,david shaw,7,68,hedge funds,united states,117,7.3,69,united states,hedge funds,finance & investments,finance,no,no,no,white,jewish,male
+215,john doerr,6.9,68,venture capital,united states,208,7.3,68,united states,venture capital,technology,investment,no,no,no,white,,male
+303,nancy walton laurie,5.7,68,walmart,united states,211,7.1,68,united states,walmart,fashion & retail,retail,no,yes,yes,white,,female
+215,robert pera,6.9,41,wireless networking gear,united states,308,7,42,united states,wireless networking gear,technology,tech,yes,no,no,white,,male
+303,nancy walton laurie,5.7,68,walmart,united states,206,7.1,68,united states,walmart,fashion & retail,retail,no,yes,yes,white,,female
+244,robert kraft,6.5,78,new england patriots,united states,155,6.9,78,united states,new england patriots,sports,sports,yes,yes,no,white,jewish,male
+149,ronald perelman,9.4,76,leveraged buyouts,united states,221,6.9,77,united states,leveraged buyouts,finance & investments,investment,no,no,no,white,jewish,male
+257,diane hendricks,6.3,72,roofing,united states,211,6.9,73,united states,roofing,construction & engineering,heavy industry,no,yes,yes,white,,female
+257,diane hendricks,6.3,72,roofing,united states,248,6.9,73,united states,roofing,construction & engineering,misc,no,yes,yes,white,,female
+365,j. christopher reyes,4.9,65,food distribution,united states,230,6.8,66,united states,food distribution,food & beverage,beverages,no,yes,no,white,,male
+233,eli broad,6.7,86,investments,united states,253,6.8,86,united states,investments,finance & investments,investment,yes,no,no,white,jewish,male
+365,jude reyes,4.9,63,food distribution,united states,349,6.8,64,united states,food distribution,food & beverage,beverages,no,yes,no,white,,male
+178,charles schwab,8.3,81,discount brokerage,united states,349,6.7,82,united states,discount brokerage,finance & investments,finance,yes,no,no,white,,male
+252,leon black,6.4,67,private equity,united states,179,6.6,68,united states,private equity,finance & investments,investment,yes,no,no,white,jewish,male
+252,israel englander,6.4,70,hedge funds,united states,253,6.6,71,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+233,daniel gilbert,6.7,57,quicken loans,united states,253,6.5,58,united states,quicken loans,finance & investments,finance,yes,no,no,white,jewish,male
+209,patrick soon-shiong,7,66,pharmaceuticals,united states,230,6.4,67,united states,pharmaceuticals,healthcare,healthcare,yes,no,no,asian,,male
+272,marijke mars,6,54,candy,united states,211,6.2,55,united states,candy,pet food,food,no,yes,yes,white,,female
+272,pamela mars,6,58,candy,united states,286,6.2,59,united states,candy,pet food,food,no,yes,yes,white,,female
+272,valerie mars,6,60,candy,united states,286,6.2,61,united states,candy,pet food,food,no,yes,yes,white,,female
+272,victoria mars,6,62,candy,united states,293,6.2,63,united states,candy,pet food,food,no,yes,yes,white,,female
+267,john overdeck,6.1,49,hedge funds,united states,169,6.1,50,united states,hedge funds,finance & investments,investment,no,no,no,white,,male
+267,david siegel,6.1,58,hedge funds,united states,268,6.1,58,united states,hedge funds,finance & investments,real estate,yes,no,no,white,jewish,male
+162,james goodnight,8.9,76,software,united states,293,6.1,77,united states,software,technology,tech,yes,no,no,white,,male
+239,marc benioff,6.6,54,business software,united states,200,5.8,55,united states,business software,technology,tech,yes,no,no,white,jewish,male
+272,marijke mars,6,54,candy,united states,248,6.2,55,united states,candy,pet food,food,no,yes,yes,white,,female
+272,pamela mars,6,58,candy,united states,248,6.2,59,united states,candy,pet food,food,no,yes,yes,white,,female
+272,valerie mars,6,60,candy,united states,248,6.2,61,united states,candy,pet food,food,no,yes,yes,white,,female
+272,victoria mars,6,62,candy,united states,248,6.2,63,united states,candy,pet food,food,no,yes,yes,white,,female
+272,steven rales,6,68,manufacturing,united states,237,5.8,69,united states,manufacturing,manufacturing,heavy industry,no,no,yes,white,,male
+203,john malone,7.2,78,cable television,united states,274,5.8,79,united states,cable television,media & entertainment,media,no,no,no,white,,male
+504,tom gores,4,54,private equity,united states,216,5.7,55,united states,private equity,finance & investments,investment,no,no,no,middle eastern,,male
+215,ralph lauren,6.9,79,ralph lauren,united states,293,5.7,80,united states,apparel,fashion & retail,fashion,yes,no,no,white,,male
+191,george kaiser,7.6,76,oil & gas,united states,514,5.6,77,united states,oil & gas,banking,energy,no,yes,no,white,,male
+290,dennis washington,5.9,84,construction,united states,193,5.5,85,united states,construction,mining,heavy industry,no,yes,yes,white,,male
+143,charles ergen,9.6,66,satellite tv,united states,304,5.4,67,united states,satellite tv,media & entertainment,media,yes,no,no,white,,male
+272,reinhold schmieding,6,64,medical devices,united states,147,5.3,65,united states,medical devices,healthcare,healthcare,yes,no,no,white,,male
+317,george roberts,5.5,75,private equity,united states,293,5.3,76,united states,private equity,finance & investments,investment,yes,no,no,white,jewish,male
+337,bruce kovner,5.2,74,hedge funds,united states,320,5.3,75,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+317,henry kravis,5.5,75,private equity,united states,241,5.2,76,united states,private equity,finance & investments,investment,yes,no,no,white,jewish,male
+239,richard kinder,6.6,74,pipelines,united states,330,5.2,75,united states,pipelines,energy,heavy industry,yes,no,no,white,,male
+261,james chambers,6.2,62,media,united states,165,5.1,62,united states,media,automotive,media,no,yes,yes,white,,male
+261,katharine rayner,6.2,74,media,united states,253,5.1,75,united states,media,automotive,media,no,yes,yes,white,,female
+261,margaretta taylor,6.2,77,media,united states,320,5.1,77,united states,media,media,media,no,yes,yes,white,,female
+261,margaretta taylor,6.2,77,media,united states,253,5.1,77,united states,media,automotive,media,no,yes,yes,white,,female
+162,micky arison,8.9,70,carnival cruises,united states,320,5.1,70,united states,carnival cruises,service,misc,no,yes,yes,white,jewish,male
+355,robert f. smith,5,56,private equity,united states,253,5,57,united states,private equity,finance & investments,investment,no,no,no,black,black,male
+379,daniel ziff,4.8,47,investments,united states,345,5,48,united states,investments,finance & investments,media,no,yes,yes,white,jewish,male
+379,dirk ziff,4.8,55,investments,united states,361,5,56,united states,investments,finance & investments,media,no,yes,yes,white,jewish,male
+379,robert ziff,4.8,52,investments,united states,361,5,53,united states,investments,finance & investments,media,no,yes,yes,white,jewish,male
+424,terrence pegula,4.5,68,natural gas,united states,361,5,69,united states,natural gas,energy,energy,no,no,no,white,,male
+617,li ge,3.5,52,biotech,united states,426,5,53,united states,biotech,healthcare,healthcare,yes,no,no,asian,,male
+379,karen pritzker,4.8,61,hotels,united states,648,4.9,62,united states,hotels,investments,hotels,no,yes,yes,white,jewish,female
+317,sam zell,5.5,77,real estate,united states,216,4.8,78,united states,real estate,private equity,real estate,no,no,no,white,,female
+379,karen pritzker,4.8,61,hotels,united states,345,4.9,62,united states,hotels,hotels,hotels,no,yes,yes,white,,female
+215,pauline macmillan keinath,6.9,85,cargill,united states,361,4.8,86,united states,cargill,food & beverage,heavy industry,no,yes,yes,white,,female
+413,stanley druckenmiller,4.6,66,hedge funds,united states,320,4.7,66,united states,hedge funds,finance & investments,investment,no,no,no,white,,male
+546,jensen huang,3.8,56,semiconductors,united states,414,4.7,57,united states,semiconductors,technology,tech,yes,no,no,asian,,male
+337,bernard marcus,5.2,90,home depot,united states,330,4.6,90,united states,home depot,fashion & retail,retail,yes,no,no,white,jewish,male
+394,arthur blank,4.7,76,home depot,united states,330,4.6,77,united states,home depot,sports,retail,yes,no,no,white,jewish,male
+325,george lucas,5.4,75,star wars,united states,538,4.6,75,united states,star wars,media & entertainment,media,yes,no,no,white,,male
+394,ray lee hunt,4.7,76,oil,united states,375,4.4,77,united states,oil,real estate,energy,no,yes,yes,white,,male
+298,ronda stryker,5.8,65,medical equipment,united states,414,4.3,65,united states,medical equipment,healthcare,healthcare,no,yes,yes,white,,female
+394,tilman fertitta,4.7,62,houston rockets,united states,308,4.3,62,united states,houston rockets,entertainment,sports,yes,yes,no,white,,male
+298,ronda stryker,5.8,65,medical equipment,united states,375,4.3,65,united states,medical equipment,healthcare,healthcare,no,yes,yes,white,,female
+478,mark cuban,4.1,60,online media,united states,375,4.3,61,united states,online media,media & entertainment,tech,yes,no,no,white,,male
+355,john paulson,5,63,hedge funds,united states,330,4.2,64,united states,hedge funds,finance & investments,investment,no,no,no,white,,male
+394,david sun,4.7,67,computer hardware,united states,345,4.2,68,united states,computer hardware,technology,tech,yes,no,no,asian,,male
+394,john tu,4.7,77,computer hardware,united states,401,4.2,78,united states,computer hardware,technology,tech,yes,no,no,asian,,male
+472,stephen bisciotti,4.2,59,staffing,united states,414,4.2,59,united states,staffing,baltimore ravens,misc,yes,no,no,white,,male
+337,sheldon solow,5.2,90,real estate,united states,468,4.2,91,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+568,nathan blecharczyk,3.7,36,airbnb,united states,468,4.1,36,united states,airbnb,technology,tech,yes,no,no,white,,male
+568,brian chesky,3.7,37,airbnb,united states,538,4.1,38,united states,airbnb,technology,tech,yes,no,no,white,,male
+568,joe gebbia,3.7,37,airbnb,united states,538,4.1,38,united states,airbnb,technology,tech,yes,no,no,white,,male
+504,jack dangermond,4,73,mapping software,united states,494,4,74,united states,mapping software,technology,tech,yes,no,no,white,,male
+504,jerry speyer,4,79,real estate,united states,494,4,79,united states,real estate,real estate,real estate,yes,no,no,white,jewish,male
+529,ronald lauder,3.9,75,estee lauder,united states,514,4,76,united states,estee lauder,fashion & retail,fashion,no,yes,yes,white,jewish,male
+546,janice mcnair,3.8,82,energy,united states,514,4,83,united states,energy,sports,energy,no,yes,yes,white,,female
+617,joshua harris,3.5,54,private equity,united states,538,4,55,united states,private equity,finance & investments,investment,no,no,no,white,jewish,male
+478,russ weiner,4.1,49,energy drinks,united states,565,4,49,united states,energy drinks,food & beverage,beverages,yes,yes,no,white,jewish,male
+504,igor olenicoff,4,76,real estate,united states,451,3.9,77,united states,real estate,real estate,real estate,no,no,no,white,russian,male
+529,steven udvar-hazy,3.9,73,aircraft leasing,united states,514,3.9,74,united states,aircraft leasing,service,misc,yes,no,no,white,hungarian,male
+617,ken fisher,3.5,68,money management,united states,538,3.9,69,united states,money management,finance & investments,investment,no,yes,no,white,jewish,male
+452,isaac perlmutter,4.3,76,marvel comics,united states,616,3.9,77,united states,marvel comics,media & entertainment,media,no,no,no,white,jewish,male
+478,marian ilitch,4.1,86,little caesars,united states,468,3.8,87,united states,little caesars,food & beverage,food,yes,no,no,white,,female
+529,harry stine,3.9,77,agriculture,united states,484,3.8,78,united states,agriculture,food & beverage,heavy industry,yes,yes,no,white,,female
+804,mary alice dorrance malone,2.8,69,campbell soup,united states,538,3.8,70,united states,campbell soup,food & beverage,food,no,yes,yes,white,,female
+452,jeff sutton,4.3,59,real estate,united states,616,3.8,60,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+504,neil bluhm,4,81,real estate,united states,451,3.7,82,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+504,reed hastings,4,58,netflix,united states,494,3.7,59,united states,netflix,media & entertainment,tech,yes,no,no,white,,male
+597,michael milken,3.6,73,investments,united states,514,3.7,73,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+597,mitchell rales,3.6,62,manufacturing,united states,616,3.7,63,united states,manufacturing,investments,heavy industry,no,yes,no,white,,male
+645,jeff greene,3.4,64,real estate,united states,616,3.7,65,united states,real estate,investments,real estate,no,no,no,white,,male
+667,david bonderman,3.3,76,private equity,united states,648,3.7,77,united states,private equity,finance & investments,investment,no,no,no,white,jewish,male
+290,dannine avara,5.9,55,pipelines,united states,514,3.6,56,united states,pipelines,energy,heavy industry,no,yes,yes,white,,female
+452,trevor rees-jones,4.3,67,oil & gas,united states,836,3.7,68,united states,oil & gas,energy,energy,yes,no,no,white,,male
+290,scott duncan,5.9,36,pipelines,united states,293,3.6,37,united states,pipelines,energy,heavy industry,no,yes,yes,white,,male
+290,milane frantz,5.9,49,pipelines,united states,293,3.6,50,united states,pipelines,energy,heavy industry,no,yes,yes,white,,female
+452,gary rollins,4.3,74,pest control,united states,293,3.6,75,united states,pest control,service,misc,no,yes,yes,white,,male
+546,roger wang,3.8,70,retail,united states,451,3.6,71,united states,retail,fashion & retail,retail,yes,no,no,asian,,male
+568,steven spielberg,3.7,72,movies,united states,538,3.6,73,united states,movies,media & entertainment,media,no,no,no,white,jewish,male
+597,donald sterling,3.6,85,real estate,united states,590,3.6,85,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+745,lynsi snyder,3,37,in-n-out burger,united states,616,3.6,37,united states,in-n-out burger,food & beverage,food,no,yes,yes,white,,female
+290,dannine avara,5.9,55,pipelines,united states,680,3.6,56,united states,pipelines,energy,heavy industry,no,yes,yes,white,,female
+775,thomas siebel,2.9,66,business software,united states,764,3.6,67,united states,business software,technology,tech,yes,no,no,white,,male
+472,frank vandersloot,4.2,70,nutrition,united states,451,3.5,71,united states,nutrition,wellness products,retail,yes,no,no,white,,male
+478,randall rollins,4.1,87,pest control,united states,468,3.5,88,united states,pest control,service,misc,no,yes,yes,white,,male
+504,ben ashkenazy,4,49,real estate,united states,494,3.5,50,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+529,gabe newell,3.9,56,videogames,united states,494,3.5,57,united states,videogames,gambling & casinos,tech,yes,no,no,white,,male
+568,douglas leone,3.7,62,venture capital,united states,538,3.5,62,united states,venture capital,finance & investments,investment,no,no,no,white,,male
+597,lin bin,3.6,51,smartphones,united states,565,3.5,52,united states,smartphones,technology,tech,yes,no,no,asian,,male
+667,anthony pritzker,3.3,58,hotels,united states,616,3.5,59,united states,hotels,investments,hotels,no,yes,yes,white,jewish,male
+691,paul singer,3.2,74,hedge funds,united states,680,3.5,75,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+745,david steward,3,68,it provider,united states,712,3.5,68,united states,it provider,technology,tech,yes,no,no,black,black,male
+775,charles simonyi,2.9,70,microsoft,united states,764,3.5,71,united states,microsoft,technology,tech,no,no,no,white,,male
+452,henry samueli,4.3,64,semiconductors,united states,804,3.5,65,united states,semiconductors,technology,tech,yes,no,no,white,jewish,male
+272,dan cathy,6,66,chick-fil-a,united states,274,3.4,67,united states,chick-fil-a,food & beverage,food,no,yes,yes,white,,male
+504,rick caruso,4,60,real estate,united states,280,3.4,61,united states,real estate,real estate,real estate,no,yes,yes,white,,male
+645,meg whitman,3.4,62,ebay,united states,590,3.3,63,united states,united states,ebay,tech,no,no,no,white,,female
+272,bubba cathy,6,65,chick-fil-a,united states,804,3.4,65,united states,chick-fil-a,food & beverage,food,no,yes,yes,white,,male
+645,meg whitman,3.4,62,ebay,united states,494,3.3,63,united states,ebay,technology,tech,no,no,no,white,,female
+715,john middleton,3.1,64,tobacco,united states,680,3.3,65,united states,tobacco,food & beverage,retail,no,yes,yes,white,,male
+745,arturo moreno,3,72,billboards,united states,743,3.3,73,united states,billboards,anaheim angels,media,yes,yes,no,latino,,male
+504,bert beveridge,4,57,vodka,united states,315,3.2,58,united states,vodka,food & beverage,beverages,yes,no,no,white,,male
+504,james leprino,4,81,cheese,united states,494,3.2,82,united states,cheese,food & beverage,food,yes,no,no,white,,male
+617,tom golisano,3.5,77,payroll services,united states,514,3.2,78,united states,payroll services,service,misc,yes,no,no,white,,male
+645,charles cohen,3.4,67,real estate,united states,616,3.2,68,united states,real estate,real estate,real estate,no,yes,yes,white,jewish,male
+645,ken langone,3.4,83,investments,united states,648,3.2,84,united states,investments,finance & investments,investment,no,no,no,white,,male
+745,leon g. cooperman,3,76,hedge funds,united states,648,3.2,76,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+745,marc rowan,3,56,private equity,united states,743,3.2,57,united states,private equity,finance & investments,investment,yes,no,no,white,jewish,male
+303,john morris,5.7,71,sporting goods retail,united states,764,3.2,72,united states,sporting goods retail,fashion & retail,retail,yes,no,no,white,,male
+775,gayle benson,2.9,72,pro sports teams,united states,764,3.2,73,united states,pro sports teams,sports,finance,no,yes,yes,white,,male
+804,jonathan gray,2.8,49,investments,united states,764,3.2,50,united states,investments,finance & investments,investment,no,yes,yes,white,jewish,male
+478,thomas pritzker,4.1,69,hotels,united states,451,3.1,69,united states,hotels,investments,hotels,no,yes,yes,white,jewish,male
+617,daniel och,3.5,58,hedge funds,united states,494,3.1,59,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+667,allan goldman,3.3,76,real estate,united states,648,3.1,77,united states,real estate,real estate,real estate,no,yes,yes,white,jewish,male
+667,jane goldman,3.3,63,real estate,united states,680,3.1,64,united states,real estate,real estate,real estate,no,yes,yes,white,jewish,female
+667,amy goldman fowler,3.3,65,real estate,united states,648,3.1,65,united states,real estate,real estate,real estate,yes,yes,yes,white,jewish,female
+667,amy goldman fowler,3.3,65,real estate,united states,680,3.1,65,united states,real estate,real estate,real estate,no,yes,yes,white,jewish,female
+667,diane kemper,3.3,73,real estate,united states,680,3.1,74,united states,real estate,real estate,real estate,no,yes,yes,white,,female
+667,diane kemper,3.3,73,real estate,united states,648,3.1,74,united states,real estate,real estate,real estate,yes,yes,yes,white,jewish,female
+715,don hankey,3.1,76,auto loans,united states,680,3.1,76,united states,auto loans,finance & investments,finance,no,yes,no,white,,male
+745,steve wynn,3,77,casinos,united states,712,3.1,78,united states,casinos,hotels,gambling,yes,yes,no,white,,male
+804,thomas hagen,2.8,83,insurance,united states,764,3.1,84,united states,insurance,finance & investments,finance,no,yes,yes,white,,male
+436,john sall,4.4,71,software,united states,804,3.1,72,united states,software,technology,tech,yes,no,no,white,,male
+916,john paul dejoria,2.5,75,hair products,united states,804,3.1,75,united states,hair products,tequila,beverages,yes,no,no,white,,male
+529,john brown,3.9,84,medical equipment,united states,451,3,85,united states,medical equipment,healthcare,healthcare,no,no,no,white,,male
+546,ira rennert,3.8,85,investments,united states,514,3,85,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+568,barry diller,3.7,77,online media,united states,538,3,78,united states,online media,media & entertainment,tech,no,no,no,white,jewish,male
+617,howard schultz,3.5,66,starbucks,united states,538,3,66,united states,starbucks,food & beverage,beverages,yes,no,no,white,jewish,male
+745,joseph liemandt,3,50,software,united states,648,3,51,united states,software,technology,tech,yes,no,no,white,,male
+804,thomas secunda,2.8,65,bloomberg lp,united states,764,3,65,united states,bloomberg lp,media & entertainment,finance,yes,no,no,white,jewish,male
+838,james irsay,2.7,60,indianapolis colts,united states,836,3,60,united states,indianapolis colts,sports,sports,no,yes,yes,white,jewish,male
+838,eric smidt,2.7,59,hardware stores,united states,836,3,60,united states,hardware stores,fashion & retail,retail,yes,no,no,white,,male
+1008,bennett dorrance,2.3,73,campbell soup,united states,875,3,74,united states,campbell soup,food & beverage,food,no,yes,yes,white,,male
+452,gwendolyn sontheim meyer,4.3,57,cargill,united states,908,3,58,united states,cargill,food & beverage,heavy industry,no,yes,yes,white,,female
+1116,thai lee,2.1,60,it provider,united states,1001,3,61,united states,it provider,technology,tech,yes,no,no,asian,asian,female
+1116,thai lee,2.1,60,it provider,united states,680,3,61,united states,it provider,technology,tech,yes,no,no,asian,asian,female
+691,mark shoen,3.2,68,u-haul,united states,616,2.9,69,united states,u-haul,automotive,logistics,no,yes,yes,white,,male
+745,michael rubin,3,46,online retail,united states,712,2.9,47,united states,online retail,fashion & retail,tech,yes,no,no,white,jewish,male
+745,patrick ryan,3,82,insurance,united states,764,2.9,82,united states,insurance,finance & investments,finance,yes,yes,no,white,,male
+804,glen taylor,2.8,78,printing,united states,764,2.9,78,united states,printing,service,misc,yes,no,no,white,,male
+838,daniel d'aniello,2.7,72,private equity,united states,836,2.9,73,united states,private equity,finance & investments,investment,yes,no,no,white,,male
+617,scott cook,3.5,66,software,united states,1135,2.9,67,united states,software,technology,tech,yes,no,no,white,chinese,male
+745,james jannard,3,70,sunglasses,united states,680,2.8,70,united states,sunglasses,fashion & retail,fashion,yes,no,no,white,,male
+804,daniel loeb,2.8,57,hedge funds,united states,764,2.8,58,united states,hedge funds,finance & investments,investment,no,yes,no,white,jewish,male
+667,joe mansueto,3.3,62,investment research,united states,836,2.8,63,united states,investment research,finance & investments,finance,yes,no,no,white,,male
+838,david rubenstein,2.7,69,private equity,united states,836,2.8,70,united states,private equity,finance & investments,investment,yes,no,no,white,jewish,male
+504,marianne liebmann,4,66,cargill,united states,494,2.7,66,united states,cargill,food & beverage,heavy industry,no,yes,yes,white,,female
+645,peter kellogg,3.4,76,investments,united states,514,2.7,77,united states,investments,finance & investments,investment,no,yes,yes,white,,male
+645,jon stryker,3.4,61,medical equipment,united states,648,2.7,61,united states,medical equipment,healthcare,healthcare,no,yes,yes,white,,male
+715,mark walter,3.1,59,finance,united states,648,2.7,59,united states,finance,finance & investments,finance,yes,no,no,white,,male
+804,haim saban,2.8,74,tv network,united states,743,2.7,75,united states,tv network,investments,media,yes,no,no,middle eastern,,male
+838,jimmy haslam,2.7,65,gas stations,united states,836,2.7,66,united states,gas stations,retail,retail,no,yes,no,white,,male
+877,sean parker,2.6,39,facebook,united states,836,2.7,40,united states,facebook,technology,tech,yes,no,no,white,,male
+478,fred smith,4.1,74,fedex,united states,875,2.7,75,united states,fedex,logistics,logistics,yes,yes,no,white,,male
+916,eric lefkofsky,2.5,49,groupon,united states,908,2.7,50,united states,groupon,technology,tech,yes,no,no,white,jewish,male
+916,bob parsons,2.5,68,web hosting,united states,908,2.7,69,united states,web hosting,technology,tech,yes,no,no,white,,male
+1116,jeffrey lurie,2.1,67,philadelphia eagles,united states,945,2.7,68,united states,philadelphia eagles,sports,media,no,yes,yes,white,jewish,male
+1116,antony ressler,2.1,57,finance,united states,1135,2.7,58,united states,finance,finance & investments,investment,no,no,no,white,jewish,male
+311,jim davis,5.6,76,new balance,united states,308,2.6,60,united states,staffing & recruiting,service,fashion,yes,no,no,white,,male
+804,jim davis,2.8,59,staffing & recruiting,united states,315,2.6,60,united states,staffing & recruiting,service,misc,yes,no,no,white,,male
+343,jack dorsey,5.1,42,twitter,united states,315,2.6,43,united states,twitter,square,tech,yes,no,no,white,,male
+413,sumner redstone,4.6,96,media,united states,330,2.6,96,united states,media,media & entertainment,media,no,no,no,white,jewish,male
+715,clifford asness,3.1,52,investment management,united states,426,2.6,53,united states,money management,finance & investments,finance,yes,no,no,white,jewish,male
+804,b. wayne hughes,2.8,85,self storage,united states,712,2.6,86,united states,self storage,service,real estate,yes,no,no,white,,male
+838,john henry,2.7,69,sports,united states,804,2.6,70,united states,sports,sports,investment,no,yes,no,white,,male
+877,noam gottesman,2.6,58,hedge funds,united states,836,2.6,58,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+877,john pritzker,2.6,65,hotels,united states,875,2.6,66,united states,hotels,investments,hotels,no,yes,yes,white,jewish,male
+877,ty warner,2.6,74,real estate,united states,908,2.6,75,united states,real estate,plush toys,retail,yes,yes,no,white,,male
+1057,jim coulter,2.2,59,private equity,united states,908,2.6,60,united states,private equity,finance & investments,investment,no,no,no,white,,male
+1057,dan snyder,2.2,54,washington redskins,united states,1063,2.6,55,united states,washington redskins,sports,media,yes,yes,no,white,jewish,male
+1227,chris larsen,1.9,59,cryptocurrency,united states,1063,2.6,59,united states,cryptocurrency,finance & investments,tech,yes,no,no,white,,male
+298,travis kalanick,5.8,42,uber,united states,1135,2.6,43,united states,uber,technology,tech,yes,no,no,white,,male
+1281,william berkley,1.8,72,insurance,united states,1196,2.6,73,united states,insurance,finance & investments,finance,yes,no,no,white,,male
+597,brian acton,3.6,47,whatsapp,united states,330,2.5,48,united states,whatsapp,technology,tech,yes,no,no,white,,male
+597,judy faulkner,3.6,75,health it,united states,590,2.5,76,united states,health it,technology,healthcare,yes,no,no,white,,male
+645,herb simon,3.4,84,real estate,united states,616,2.5,85,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+775,mortimer zuckerman,2.9,82,real estate,united states,648,2.5,82,united states,real estate,media,real estate,no,yes,no,white,,male
+804,johnelle hunt,2.8,87,trucking,united states,804,2.5,88,united states,trucking,logistics,logistics,no,yes,yes,white,,female
+838,phil ruffin,2.7,84,casinos,united states,804,2.5,85,united states,casinos,real estate,gambling,no,yes,no,middle eastern,,male
+877,penny pritzker,2.6,60,hotels,united states,875,2.5,60,united states,hotels,investments,hotels,no,yes,yes,white,jewish,female
+916,oprah winfrey,2.5,65,tv shows,united states,908,2.5,66,united states,tv shows,media & entertainment,media,yes,no,no,black,,female
+962,mark stevens,2.4,59,venture capital,united states,945,2.5,60,united states,venture capital,finance & investments,investment,no,no,no,white,,male
+1008,alan trefler,2.3,63,software,united states,945,2.5,64,united states,software,technology,tech,yes,no,no,white,jewish,female
+1349,peter gassner,1.7,54,software,united states,1001,2.5,55,united states,software,technology,tech,yes,no,no,white,,male
+334,robert rowling,5.3,65,hotels,united states,1267,2.5,66,united states,hotels,investments,hotels,no,yes,no,white,,male
+775,rakesh gangwal,2.9,65,airline,united states,616,2.4,66,united states,airline,service,misc,yes,no,no,asian,indian,male
+804,richard peery,2.8,80,real estate,united states,764,2.4,81,united states,real estate,real estate,real estate,no,yes,no,white,,male
+838,jeff rothschild,2.7,64,facebook,united states,836,2.4,65,united states,facebook,technology,tech,no,yes,no,white,,male
+838,e. joe shoen,2.7,69,u-haul,united states,875,2.4,70,united states,u-haul,automotive,automotive,no,yes,yes,white,,male
+877,jerry yang,2.6,50,yahoo,united states,875,2.4,51,united states,yahoo,technology,tech,yes,no,no,asian,,male
+962,norman braman,2.4,86,art,united states,908,2.4,87,united states,art,car dealerships,automotive,no,yes,no,white,jewish,male
+962,c. dean metropoulos,2.4,73,investments,united states,945,2.4,73,united states,investments,food & beverage,investment,no,no, no,white,greek,male
+478,kelcy warren,4.1,63,pipelines,united states,945,2.2,64,united states,pipelines,energy,heavy industry,yes,no,no,white,,female
+962,herbert wertheim,2.4,80,investments,united states,945,2.4,80,united states,investments,finance & investments,heavy industry,yes,no,no,white,jewish,male
+1008,george bishop,2.3,81,oil & gas,united states,1001,2.4,82,united states,oil & gas,energy,energy,yes,no,no,white,,male
+1008,brad kelley,2.3,62,tobacco,united states,1001,2.4,63,united states,tobacco,real estate,misc,yes,no,no,white,,male
+617,elizabeth johnson,3.5,56,money management,united states,1335,2.4,56,united states,money management,finance & investments,finance,no,yes,yes,white,,female
+745,jim breyer,3,57,venture capital,united states,743,2.3,58,united states,venture capital,technology,investment,no,no,no,white,jewish,male
+838,richard sands,2.7,68,liquor,united states,743,2.3,69,united states,liquor,food & beverage,beverages,yes,no,no,white,,male
+916,warren stephens,2.5,62,investment banking,united states,875,2.3,63,united states,investment banking,finance & investments,investment,yes,yes,no,white,,male
+916,peter thiel,2.5,51,facebook,united states,945,2.3,52,united states,facebook,palantir,investment,no,no,no,white,,male
+962,david walentas,2.4,80,real estate,united states,945,2.3,81,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+715,jean (gigi) pritzker,3.1,57,hotels,united states,1001,2.3,57,united states,hotels,investments,hotels,no,yes,yes,white,jewish,female
+1008,daniel pritzker,2.3,59,hotels,united states,1001,2.3,60,united states,hotels,investments,hotels,no,yes,yes,white,jewish,male
+1008,stewart rahr,2.3,73,drug distribution,united states,1001,2.3,74,united states,drug distribution,healthcare,healthcare,yes,no,no,white,jewish,male
+1057,ron baron,2.2,76,money management,united states,1001,2.3,76,united states,money management,finance & investments,investment,no,no,no,white,jewish,male
+1057,clayton mathile,2.2,78,pet food,united states,1063,2.3,79,united states,pet food,food & beverage,food,no,no,no,white,,male
+745,jeffery hildebrand,3,60,oil,united states,494,2.2,61,united states,oil,energy,energy,yes,no,no,white,,male
+877,doris fisher,2.6,87,gap,united states,764,2.2,88,united states,gap,fashion & retail,fashion,yes,no,no,white,jewish,female
+916,joseph grendys,2.5,57,poultry processing,united states,875,2.2,58,united states,poultry processing,food & beverage,food,no,no,no,white,,male
+1057,todd christopher,2.2,56,hair care products,united states,908,2.2,57,united states,hair care products,fashion & retail,fashion,yes,no,no,white,,male
+478,kelcy warren,4.1,63,pipelines,united states,1063,2.2,64,united states,pipelines,energy,heavy industry,yes,no,no,white,,female
+1057,james dinan,2.2,60,hedge funds,united states,1063,2.2,60,united states,hedge funds,finance & investments,investment,no,no,no,white,,male
+1057,brian sheth,2.2,43,investments,united states,1063,2.2,44,united states,investments,finance & investments,investment,no,no,no,asian,indian,male
+1057,jon yarbrough,2.2,62,video games,united states,1063,2.2,62,united states,video games,gambling & casinos,gambling,yes,no,no,white,,male
+1116,ben chestnut,2.1,45,email marketing,united states,1063,2.2,45,united states,email marketing,technology,tech,yes,no,no,asian,,male
+1116,james clark,2.1,75,netscape,united states,1063,2.2,76,united states,netscape,investments,tech,yes,no,no,white,,male
+1116,dan kurzius,2.1,47,email marketing,united states,1063,2.2,48,united states,email marketing,technology,tech,yes,no,no,white,,male
+1116,kavitark ram shriram,2.1,62,venture capital,united states,1135,2.2,63,united states,venture capital,google,investment,no,no,no,asian,indian,male
+1168,bruce karsh,2,63,private equity,united states,1135,2.2,64,united states,private equity,finance & investments,investment,no, no,no,white,jewish,male
+1168,howard marks,2,73,private equity,united states,1135,2.2,73,united states,private equity,finance & investments,investment,no, no,no,white,jewish,male
+1227,jim kavanaugh,1.9,56,it provider,united states,1196,2.2,57,united states,it provider,technology,tech,no,no,no,white,,male
+1227,william lauder,1.9,59,estee lauder,united states,1196,2.2,59,united states,estee lauder,fashion & retail,fashion,no,yes,yes,white,,male
+645,alejandro santo domingo,3.4,42,beer,united states,361,2.1,43,united states,beer,food & beverage,beverages,no,yes,yes,latino,,male
+645,andres santo domingo,3.4,41,beer,united states,648,2.1,41,united states,beer,food & beverage,beverages,no,yes,yes,latino,,male
+667,jay paul,3.3,72,real estate,united states,648,2.1,72,united states,real estate,real estate,real estate,no,no,no,white,,male
+715,donald trump,3.1,73,television,united states,680,2.1,73,united states,real estate,real estate,real estate,no,yes,yes,white,,male
+838,gerald ford,2.7,74,banking,united states,743,2.1,75,united states,banking,finance & investments,finance,no,no,no,white,,male
+877,john fisher,2.6,58,gap,united states,836,2.1,58,united states,gap,fashion & retail,fashion,no,yes,yes,white,jewish,male
+916,john arrillaga,2.5,82,real estate,united states,875,2.1,83,united states,real estate,real estate,real estate,no,no,no,white,spanish,male
+916,bill austin,2.5,77,hearing aids,united states,908,2.1,78,united states,hearing aids,manufacturing,heavy industry,yes,no,no,white,,male
+916,aerin lauder,2.5,49,cosmetics,united states,908,2.1,49,united states,cosmetics,fashion & retail,fashion,no,yes,yes,white,,female
+1008,william young,2.3,78,plastics,united states,908,2.1,79,united states,plastics,manufacturing,heavy industry,yes,yes,no,white,,male
+1057,ted turner,2.2,80,cable television,united states,1001,2.1,81,united states,cable television,media & entertainment,media,yes,no,no,white,,male
+1057,charles zegar,2.2,71,bloomberg lp,united states,1063,2.1,72,united states,bloomberg lp,media & entertainment,tech,yes,no,no,white,jewish,male
+1116,gordon getty,2.1,85,getty oil,united states,1063,2.1,86,united states,getty oil,energy,energy,no,yes,yes,white,,male
+1168,jeffrey gundlach,2,60,investments,united states,1135,2.1,61,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+1168,henry laufer,2,73,hedge funds,united states,1135,2.1,74,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+379,david filo,4.8,53,yahoo,united states,1196,2.1,53,united states,yahoo,technology,tech,yes,no,no,white,,male
+1281,michael jordan,1.8,56,charlotte hornets,united states,1196,2.1,57,united states,charlotte hornets,endorsements,sports,no,no,no,black,,male
+1281,leonard schleifer,1.8,67,pharmaceuticals,united states,1267,2.1,67,united states,pharmaceuticals,healthcare,healthcare,yes,no,no,white,jewish,male
+877,t. denny sanford,2.6,83,banking,united states,875,2,84,united states,banking,credit cards,finance,yes,yes,no,white,,male
+962,patricia stryker,2.4,63,medical equipment,united states,908,2,64,united states,medical equipment,healthcare,healthcare,no,yes,yes,white,,female
+1008,david gottesman,2.3,93,investments,united states,945,2,93,united states,investments,finance & investments,investment,no,yes,no,white,jewish,male
+1057,alec gores,2.2,66,private equity,united states,1001,2,67,united states,private equity,finance & investments,investment,no,no,no,white,greek,male
+1116,vinod khosla,2.1,64,venture capital,united states,1063,2,65,united states,venture capital,technology,investment,no,no,no,asian,indian,male
+1168,s. daniel abraham,2,94,slim-fast,united states,1135,2,95,united states,slim-fast,food & beverage,beverages,yes,no,no,white,jewish,male
+1168,glenn dubin,2,62,hedge funds,united states,1135,2,62,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+1168,thomas lee,2,75,private equity,united states,1135,2,76,united states,private equity,finance & investments,investment,no,no,no,white,jewish,male
+1227,stanley hubbard,1.9,86,directv,united states,1196,2,86,united states,directv,media & entertainment,media,no,yes,yes,white,,male
+1227,david murdock,1.9,96,dole,united states,1196,2,96,united states,dole,real estate,real estate,no,no,no,white,,male
+1227,linda pritzker,1.9,65,hotels,united states,1196,2,66,united states,hotels,investments,hotels,no,yes,yes,white,jewish,female
+1227,rodney sacks,1.9,69,energy drinks,united states,1196,2,70,united states,energy drinks,food & beverage,beverages,yes,yes,no,white,jewish,male
+1227,amy wyss,1.9,48,medical equipment,united states,1267,2,49,united states,medical equipment,healthcare,healthcare,no,yes,yes,white,,female
+1281,carol jenkins barnett,1.8,62,publix supermarkets,united states,1267,2,63,united states,publix supermarkets,food & beverage,retail,no,yes,yes,white,,female
+1281,ronald wanek,1.8,78,furniture,united states,1267,2,78,united states,furniture,manufacturing,heavy industry,yes,no,no,white,,male
+838,vincent viola,2.7,63,electronic trading,united states,1335,2,64,united states,electronic trading,finance & investments,finance,yes,no,no,white,,male
+775,nick caporella,2.9,83,beverages,united states,680,1.9,84,united states,beverages,food & beverage,beverages,yes,no,no,white,,male
+877,jorge perez,2.6,69,real estate,united states,764,1.9,70,united states,real estate,real estate,real estate,no,no,no,white,spanish,male
+1116,bobby murphy,2.1,31,snapchat,united states,908,1.9,31,united states,snapchat,technology,tech,yes,no,no,asian,,male
+1116,evan spiegel,2.1,29,snapchat,united states,1135,1.9,29,united states,snapchat,technology,tech,yes,no,no,white,jewish,male
+1168,nicholas pritzker,2,75,hotels,united states,1135,1.9,76,united states,hotels,investments,hotels,no,yes,yes,white,jewish,male
+1227,jennifer pritzker,1.9,68,hotels,united states,1196,1.9,69,united states,hotels,investments,hotels,no,yes,yes,white,jewish,female
+1227,larry robbins,1.9,49,hedge funds,united states,1196,1.9,50,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+691,sid bass,3.2,77,oil,united states,1335,1.9,77,united states,oil,investments,energy,no,yes,yes,white,,male
+838,robert sands,2.7,61,liquor,united states,712,1.8,61,united states,liquor,food & beverage,beverages,yes,no,no,white,,male
+1008,lee bass,2.3,63,oil,united states,875,1.8,63,united states,oil,investments,energy,no,yes,yes,white,,male
+1057,edward bass,2.2,73,oil,united states,1001,1.8,74,united states,oil,investments,energy,no,yes,yes,white,,male
+1281,robert duggan,1.8,75,pharmaceuticals,united states,1063,1.8,75,united states,pharmaceuticals,healthcare,healthcare,yes,no,no,white,,male
+691,vincent mcmahon,3.2,73,entertainment,united states,1196,1.8,74,united states,entertainment,sports,sports,no,yes,no,white,,male
+1281,james france,1.8,74,nascar,united states,1267,1.8,75,united states,nascar,racing,automotive,no,yes,yes,white,,male
+1281,marc lasry,1.8,58,hedge funds,united states,1267,1.8,59,united states,hedge funds,finance & investments,investment,no,no,no,middle eastern,jewish,male
+1281,craig mccaw,1.8,69,telecom,united states,1267,1.8,70,united states,telecom,telecom,tech,yes,yes,yes,white,,male
+1281,jonathan nelson,1.8,63,private equity,united states,1267,1.8,63,united states,private equity,finance & investments,investment,no,no,no,white,,male
+1281,todd wagner,1.8,58,online media,united states,1267,1.8,59,united states,online media,media & entertainment,media,yes,no,no,white,,male
+1349,reid hoffman,1.7,51,linkedin,united states,1335,1.8,52,united states,linkedin,technology,tech,yes,no,no,white,,male
+1349,henry swieca,1.7,62,hedge funds,united states,1335,1.8,62,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+1425,evan williams,1.6,47,twitter,united states,1415,1.8,48,united states,twitter,technology,tech,yes,no,no,white,,male
+962,aneel bhusri,2.4,53,business software,united states,764,1.7,54,united states,business software,technology,tech,yes,no,no,asian,indian,male
+962,ray davis,2.4,77,pipelines,united states,945,1.7,78,united states,pipelines,energy,heavy industry,no,no,no,white,,male
+1057,phillip t. (terry) ragon,2.2,70,health it,united states,945,1.7,70,united states,health it,technology,tech,yes,no,no,latino,colombian,male
+1168,leslie alexander,2,76,sports team,united states,1063,1.7,76,united states,sports team,sports,investment,no,no,no,white,jewish,male
+1281,david lichtenstein,1.8,57,real estate,united states,1135,1.7,58,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+1281,brian roberts,1.8,60,comcast,united states,1267,1.7,60,united states,comcast,service,media,no,yes,yes,white,jewish,male
+1349,jimmy john liautaud,1.7,55,sandwich chain,united states,1335,1.7,56,united states,sandwich chain,food & beverage,food,yes,yes,no,white,,male
+1349,gary michelson,1.7,70,medical patents,united states,1335,1.7,71,united states,medical patents,healthcare,healthcare,no,no,no,white,jewish,male
+1349,jeffrey talpins,1.7,44,hedge fund,united states,1335,1.7,45,united states,hedge fund,finance & investments,investment,no,no,no,white,jewish,male
+1425,christopher goldsbury,1.6,76,salsa,united states,1415,1.7,77,united states,salsa,food & beverage,food,no,yes,no,white,,male
+1605,gail miller,1.4,75,car dealerships,united states,1415,1.7,76,united states,car dealerships,automotive,automotive,no,yes,yes,white,,female
+775,timothy boyle,2.9,69,columbia sportswear,united states,1513,1.7,70,united states,columbia sportswear,fashion & retail,fashion,no,yes,no,white,,male
+1605,charlotte colket weber,1.4,76,campbell soup,united states,1613,1.7,77,united states,campbell soup,food & beverage,food,no,yes,yes,white,,female
+1349,catherine lozick,1.7,74,valve manufacturing,united states,1335,1.6,74,united states,valve manufacturing,manufacturing,heavy industry,no,yes,yes,white,,female
+1281,bill haslam,1.8,60,truck stops,united states,945,1.6,61,united states,gas stations,energy,energy,no,yes,yes,white,,male
+1349,catherine lozick,1.7,74,valve manufacturing,united states,1267,1.6,74,united states,valve manufacturing,manufacturing,heavy industry,no,yes,yes,white,,female
+1425,o. francis biondi,1.6,55,hedge funds,united states,1335,1.6,55,united states,hedge funds,finance & investments,investment,no,no,no,white,,male
+1425,brian higgins,1.6,54,hedge funds,united states,1415,1.6,55,united states,hedge funds,finance & investments,investment,no,no,no,white,,male
+1425,charles munger,1.6,95,berkshire hathaway,united states,1415,1.6,96,united states,berkshire hathaway,finance & investments,investment,no,no,no,white,,male
+1425,nelson peltz,1.6,77,investments,united states,1415,1.6,77,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+1425,thomas steyer,1.6,62,hedge funds,united states,1415,1.6,62,united states,hedge funds,finance & investments,finance,no,no,no,white,jewish,male
+1511,chad richison,1.5,48,payroll processing,united states,1415,1.6,49,united states,payroll processing,technology,tech,no,no,no,white,,male
+1511,martin selig,1.5,81,real estate,united states,1513,1.6,82,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+1605,herb chambers,1.4,77,car dealerships,united states,1513,1.6,78,united states,car dealerships,automotive,automotive,no,no,no,white,,male
+1605,j. tomilson hill,1.4,71,investments,united states,1613,1.6,71,united states,investments,finance & investments,investment,no,yes,no,white,,male
+1818,j. hyatt brown,1.2,82,insurance,united states,1613,1.6,82,united states,insurance,finance & investments,finance,no,yes,yes,white,,male
+962,chuck bundrant,2.4,77,fishing,united states,1730,1.6,78,united states,fishing,food & beverage,food,yes,no,no,white,,male
+1941,anthony wood,1.1,53,roku,united states,1730,1.6,54,united states,roku,technology,tech,yes,no,no,white,,male
+1168,phillip frost,2,82,pharmaceuticals,united states,1135,1.5,83,united states,pharmaceuticals,healthcare,healthcare,no,no,no,white,jewish,male
+1227,john tyson,1.9,65,food processing,united states,1135,1.5,66,united states,food processing,food & beverage,food,yes,no,no,white,,male
+1281,william koch,1.8,79,oil,united states,1267,1.5,79,united states,oil,investments,energy,no,yes,yes,white,,male
+1349,mario gabelli,1.7,77,money management,united states,1267,1.5,78,united states,money management,finance & investments,investment,no,no,no,white,,male
+1349,bradley jacobs,1.7,63,logistics,united states,1335,1.5,63,united states,logistics,logistics,logistics,yes,no,no,white,,male
+1425,nicolas berggruen,1.6,57,investments,united states,1335,1.5,58,united states,investments,finance & investments,investment,no,yes,no,white,jewish,male
+1425,jerry reinsdorf,1.6,83,sports teams,united states,1415,1.5,84,united states,sports teams,sports,real estate,no,no, no,white,jewish,male
+1425,sheryl sandberg,1.6,49,facebook,united states,1415,1.5,50,united states,facebook,technology,tech,no,no,no,white,jewish,female
+1511,louis bacon,1.5,62,hedge funds,united states,1415,1.5,63,united states,hedge funds,finance & investments,investment,no,no,no,white,,male
+1511,stephen feinberg,1.5,59,private equity,united states,1513,1.5,60,united states,private equity,finance & investments,investment,no,no,no,white,jewish,male
+1511,bill gross,1.5,75,investments,united states,1513,1.5,75,united states,investments,finance & investments,investment,yes,no,no,white,,male
+1511,seth klarman,1.5,62,investments,united states,1513,1.5,62,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+1605,alan gerry,1.4,90,cable television,united states,1513,1.5,91,united states,cable television,media & entertainment,media,yes,no,no,white,jewish,male
+1605,james leininger,1.4,74,medical products,united states,1613,1.5,75,united states,medical products,healthcare,healthcare,yes,no,no,white,,male
+1605,peter sperling,1.4,59,education,united states,1613,1.5,60,united states,education,service,misc,no,yes,yes,white,,male
+1605,kenny troutt,1.4,71,telecom,united states,1613,1.5,72,united states,telecom,telecom,tech,yes,no,no,white,,male
+1941,alice schwartz,1.1,93,biotech,united states,1613,1.5,93,united states,biotech,healthcare,healthcare,yes,no,no,white,jewish,female
+1168,lorenzo fertitta,2,50,casinos,united states,1990,1.5,51,united states,casinos,mixed martial arts,sports,yes,yes,yes,white,,male
+1116,elaine wynn,2.1,77,casinos,united states,1135,1.4,77,united states,casinos,hotels,gambling,yes,no,no,white,jewish,female
+1168,w. herbert hunt,2,90,oil,united states,1135,1.4,91,united states,oil,energy,energy,no,no,no,white,,male
+1227,david zalik,1.9,45,financial technology,united states,1135,1.4,46,united states,financial technology,technology,tech,yes,no,no,white,,male
+1349,david booth,1.7,73,mutual funds,united states,1267,1.4,74,united states,mutual funds,finance & investments,finance,yes,no,no,white,,male
+1349,paul foster,1.7,61,oil refining,united states,1335,1.4,62,united states,oil refining,energy,energy,yes,yes,no,white,,male
+1425,bill alfond,1.6,71,shoes,united states,1335,1.4,71,united states,shoes,fashion & retail,fashion,no,yes,yes,white,jewish,male
+1425,susan alfond,1.6,74,shoes,united states,1415,1.4,74,united states,shoes,fashion & retail,fashion,no,yes,yes,white,jewish,female
+1425,ted alfond,1.6,74,shoes,united states,1415,1.4,75,united states,shoes,fashion & retail,fashion,no,yes,yes,white,jewish,male
+1425,peter buck,1.6,88,subway sandwich shops,united states,1415,1.4,89,united states,subway sandwich shops,food & beverage,food,no,no,no,white,,male
+1425,george joseph,1.6,97,insurance,united states,1415,1.4,98,united states,insurance,finance & investments,finance,yes,no,no,middle eastern,,male
+1511,ron burkle,1.5,66,supermarkets,united states,1415,1.4,67,united states,supermarkets,investments,investment,no,no,no,white,,male
+1511,kathy fields,1.5,61,skin care,united states,1513,1.4,61,united states,skin care,fashion & retail,fashion,yes,no,no,white,,female
+1511,katie rodan,1.5,64,skin care,united states,1513,1.4,64,united states,skin care,fashion & retail,fashion,yes,no,no,white,jewish,female
+1511,hamilton james,hamilton james,67,investments,united states,1513,1.4,68,united states,investments,finance & investments,investment,no,no,no,white,,male
+1511,billy joe (red) mccombs,1.5,91,real estate,united states,1513,1.4,92,united states,automotive,automotive,automotive,yes,no,no,white,,male
+1511,katie rodan,1.5,64,skin care,united states,1513,1.4,64,united states,skin care,fashion & retail,fashion,yes,no,no,white,,female
+1511,stephen winn,1.5,72,real estate services,united states,1513,1.4,73,united states,real estate services,real estate,real estate,yes,yes,no,white,,male
+1605,bharat desai,1.4,66,it consulting,united states,1513,1.4,67,united states,it consulting,technology,tech,yes,no,no,asian,indian,male
+1605,philippe laffont,1.4,51,hedge fund,united states,1613,1.4,52,united states,hedge fund,finance & investments,investment,no,no,no,white,,male
+1605,jonathan tisch,1.4,65,insurance,united states,1613,1.4,66,united states,insurance,nfl team,hotels,no,yes,yes,white,jewish,male
+1605,chris wanstrath,1.4,34,collaborative software,united states,1613,1.4,35,united states,software,technology,tech,yes,no,no,white,,male
+1717,steve case,1.3,60,aol,united states,1613,1.4,61,united states,aol,technology,tech,no,no,no,white,,male
+1717,sue gross,1.3,69,investments,united states,1730,1.4,70,united states,investments,finance & investments,investment,no,yes,yes,white,,female
+1818,james duff,1.2,58,tires,united states,1730,1.4,59,united states,tires,diversified,retail,no,yes,yes,white,,male
+1818,thomas duff,1.2,62,tires,united states,1851,1.4,63,united states,tires,diversified,retail,no,yes,yes,white,,male
+1818,eren ozmen,1.2,60,aerospace,united states,1851,1.4,61,united states,aerospace,manufacturing,heavy industry,no,no,no,middle eastern,,female
+1818,fatih ozmen,1.2,61,aerospace,united states,1851,1.4,62,united states,aerospace,manufacturing,heavy industry,no,no,no,middle eastern,,male
+1941,william ackman,1.1,53,hedge funds,united states,1851,1.4,53,united states,hedge funds,finance & investments,investment,no,yes,no,white,jewish,male
+1941,theodore leonsis,1.1,63,sports teams,united states,1851,1.4,64,united states,sports teams,sports,tech,no,no,no,white,greek,male
+2057,leo koguan,1,64,it provider,united states,1851,1.4,65,united states,it provider,technology,tech,no,no,no,asian,,male
+1116,osman kibar,2.1,48,biotech,united states,1990,1.4,49,united states,biotech,healthcare,healthcare,yes,no,no,middle eastern,,male
+1008,drew houston,2.3,36,cloud storage service,united states,1001,1.3,37,united states,cloud storage service,technology,tech,yes,no,no,white,,male
+1227,alexandra daitch,1.9,56,cargill,united states,1001,1.3,57,united states,cargill,food & beverage,heavy industry,no,yes,yes,white,,female
+1227,sarah macmillan,1.9,65,cargill,united states,1196,1.3,66,united states,cargill,food & beverage,heavy industry,no,yes,yes,white,,female
+1227,sarah macmillan,1.9,65,cargill,united states,1613,1.3,66,united states,cargill,food & beverage,heavy industry,no,yes,yes,white,,female
+1227,lucy stitzer,1.9,59,cargill,united states,1196,1.3,60,united states,cargill,food & beverage,heavy industry,no,yes,yes,white,,female
+1227,william stone,1.9,64,software,united states,1267,1.3,64,united states,software,technology,tech,yes,no,no,white,,male
+1425,craig newmark,1.6,66,craigslist,united states,1267,1.3,67,united states,craigslist,technology,tech,yes,no,no,white,,male
+1511,kenneth tuchman,1.5,59,outsourcing,united states,1415,1.3,60,united states,outsourcing,service,misc,yes,no,no,white,jewish,male
+1605,michael krasny,1.4,65,retail,united states,1513,1.3,66,united states,retail,technology,retail,yes,no,no,white,jewish,male
+1605,kevin systrom,1.4,35,instagram,united states,1613,1.3,36,united states,instagram,technology,tech,yes,no,no,white,,male
+1717,darwin deason,1.3,79,xerox,united states,1613,1.3,79,united states,xerox,service,tech,yes,no,no,white,,male
+1717,alexander karp,1.3,51,software firm,united states,1730,1.3,52,united states,software firm,technology,tech,yes,no,no,white,jewish,male
+1717,sidney kimmel,1.3,91,retail,united states,1730,1.3,92,united states,retail,fashion & retail,fashion,yes,no,no,white,jewish,male
+1717,alexander rovt,1.3,66,fertilizer,united states,1730,1.3,67,united states,fertilizer,real estate,heavy industry,no,no,no,white,jewish,male
+1717,steven sarowitz,1.3,53,payroll software,united states,1730,1.3,54,united states,payroll software,technology,tech,yes,no,no,white,jewish,male
+1818,frank laukien,1.2,59,scientific equipment,united states,1730,1.3,60,united states,scientific equipment,manufacturing,heavy industry,no,no,no,white,,male
+1818,john martin,1.2,68,pharmaceuticals,united states,1851,1.3,68,united states,pharmaceuticals,healthcare,healthcare,no,no,no,white,,male
+1941,jim koch,1.1,70,beer,united states,1851,1.3,70,united states,beer,food & beverage,beverages,yes,no,no,white,,male
+1941,duncan macmillan,1.1,81,bloomberg lp,united states,1851,1.3,82,united states,bloomberg lp,finance & investments,finance,yes,no,no,white,,male
+962,anita zucker,2.4,67,chemicals,united states,1990,1.3,68,united states,chemicals,manufacturing,heavy industry,yes,no,no,white,jewish,female
+1425,jim thompson,1.6,79,logistics,united states,1267,1.2,80,united states,logistics,logistics,logistics,yes,no,no,white,,male
+1511,yvon chouinard,1.5,80,patagonia,united states,1415,1.2,81,united states,patagonia,fashion & retail,fashion,yes,no,no,white,,female
+1511,timothy headington,1.5,69,oil & gas,united states,1513,1.2,69,united states,oil & gas,investments,energy,no,yes,yes,white,,male
+1511,daniel lubetzky,1.5,50,kind healthy snacks,united states,1513,1.2,51,united states,snack bars,food & beverage,food,yes,no,no,latino,jewish,male
+1511,forrest preston,1.5,86,health care,united states,1513,1.2,87,united states,health care,healthcare,healthcare,yes,no,no,white,,male
+1605,george marcus,1.4,77,real estate,united states,1513,1.2,78,united states,real estate,real estate,real estate,no,no,no,white,greek,male
+1605,wilma tisch,1.4,92,diversified,united states,1613,1.2,92,united states,diversified,finance & investments,investment,no,yes,yes,white,jewish,female
+1605,farris wilks,1.4,67,natural gas,united states,1613,1.2,68,united states,natural gas,energy,energy,yes,no,no,white,,male
+1717,marc andreessen,1.3,48,venture capital investing,united states,1730,1.2,48,united states,venture capital investing,finance & investments,tech,yes,no,no,white,,male
+1717,jamie dimon,1.3,63,banking,united states,1730,1.2,64,united states,banking,finance & investments,finance,no,no,no,white,greek,male
+1818,thomas bailey,1.2,82,money management,united states,1730,1.2,83,united states,money management,finance & investments,finance,yes,no,no,white,,male
+1818,joseph edelman,1.2,64,hedge funds,united states,1730,1.2,64,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+1818,henry engelhardt,1.2,61,insurance,united states,1851,1.2,62,united states,insurance,finance & investments,finance,yes,no,no,white,jewish,male
+1818,j. christopher flowers,1.2,61,investments,united states,1851,1.2,62,united states,investments,finance & investments,investment,no,no,no,white,,male
+1818,jerry moyes,1.2,75,transportation,united states,1851,1.2,76,united states,transportation,logistics,logistics,yes,no,no,white,,male
+1818,mark pincus,1.2,53,online games,united states,1851,1.2,54,united states,online games,technology,tech,yes,no,no,white,jewish,male
+1818,tom preston-werner,1.2,39,collaborative software,united states,1851,1.2,40,united states,collaborative software,technology,tech,yes,no,no,white,,male
+1818,thomas tull,1.2,49,movies,united states,1851,1.2,49,united states,movies,investments,media,yes,no,no,white,,male
+1281,john farber,1.8,93,chemicals,united states,1990,1.2,94,united states,chemicals,manufacturing,heavy industry,no,no,no,white,,male
+1349,tor peterson,1.7,54,commodities,united states,1196,1.1,55,united states,commodities,metals & mining,investment,no,no,no,white,,male
+1511,roger penske,1.5,82,cars,united states,1335,1.1,83,united states,cars,automotive,automotive,no,no,no,white,,male
+1605,fayez sarofim,1.4,90,money management,united states,1513,1.1,91,united states,money management,finance & investments,investment,no,yes,yes,middle eastern,,male
+1605,dan wilks,1.4,63,natural gas,united states,1613,1.1,63,united states,natural gas,energy,energy,yes,no,no,white,,male
+1717,henry davis,1.3,68,beef processing,united states,1730,1.1,69,united states,beef processing,food & beverage,food,no,ys,yes,white,,male
+1717,donald foss,1.3,75,auto loans,united states,1730,1.1,75,united states,auto loans,automotive,finance,yes,no,no,white,,male
+1717,gary magness,1.3,65,cable tv,united states,1730,1.1,66,united states,cable tv,investments,tech,no,yes,yes,white,,male
+1818,donald friese,1.2,78,manufacturing,united states,1730,1.1,79,united states,manufacturing,manufacturing,heavy industry,no,no,no,white,,male
+1227,kevin plank,1.9,46,under armour,united states,1851,1.1,47,united states,under armour,fashion & retail,fashion,yes,no,no,white,,male
+1818,thomas james,1.2,77,finance,united states,1851,1.1,77,united states,finance,finance & investments,finance,no,yes,yes,white,,male
+1818,george yancopoulos,1.2,59,pharmaceuticals,united states,1851,1.1,60,united states,pharmaceuticals,healthcare,healthcare,yes,no,no,white,greek,male
+1941,paul fireman,1.1,75,reebok,united states,1851,1.1,76,united states,reebok,fashion & retail,fashion,no,no,no,white,jewish,male
+1941,richard kayne,1.1,73,investments,united states,1851,1.1,74,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+1941,nancy lerner,1.1,59,banking,united states,1851,1.1,59,united states,banking,credit cards,finance,no,yes,yes,white,jewish,female
+1941,norma lerner,1.1,83,banking,united states,1851,1.1,84,united states,banking,finance & investments,finance,no,yes,yes,white,jewish,female
+1941,randolph lerner,1.1,57,banking,united states,1851,1.1,58,united states,banking,credit cards,finance,no,yes,yes,white,jewish,male
+1941,frederic luddy,1.1,64,software,united states,1851,1.1,65,united states,software,technology,tech,yes,no,no,white,,male
+1941,michael price,1.1,67,investments,united states,1990,1.1,67,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+1941,michael steinhardt,1.1,78,hedge funds,united states,1990,1.1,79,united states,hedge funds,finance & investments,investment,no,no,no,white,jewish,male
+1717,brian armstrong,1.3,36,cryptocurrency,united states,1613,1,37,united states,cryptocurrency,finance & investments,tech,yes,no,no,white,,male
+1818,david paul,1.2,52,medical devices,united states,1730,1,53,united states,medical devices,healthcare,healthcare,yes,no,no,asian,,male
+1818,jayshree ullal,1.2,58,computer networking,united states,1851,1,59,united states,computer networking,technology,tech,no,no,no,asian,,male
+1941,jeff green,1.1,42,digital advertising,united states,1851,1,43,united states,digital advertising,media & entertainment,tech,yes,no,no,white,,male
+2057,david hall,1,67,automotive technology,united states,1851,1,68,united states,automotive technology,automotive,tech,yes,no,no,white,,male
+1605,edmund ansin,1.4,83,television,united states,1990,1,84,united states,television,media & entertainment,media,yes,no,no,white,jewish,male
+2057,david kabiller,1,56,investment management,united states,1990,1,56,united states,investment management,finance & investments,investment,yes,no,no,white,jewish,male
+2057,john liew,1,51,investment management,united states,1990,1,52,united states,investment management,finance & investments,investment,yes,no,no,asian,,male
+2057,lowell milken,1,70,investments,united states,1990,1,71,united states,investments,finance & investments,investment,no,no,no,white,jewish,male
+2057,axel stawski,1,68,real estate,united states,1990,1,69,united states,real estate,real estate,real estate,no,no,no,white,jewish,male
+2057,sandy weill,1,86,citigroup,united states,1990,1,87,united states,citigroup,finance & investments,finance,no,no,no,white,jewish,male
+838,andrew & peggy cherng,2.7,-,restaurants,united states,1990,2.3,,united states,restaurants,food & beverage,food,yes,no,no,asian,,male
+,Tyler Perry,,,,,,1,51,united states,media,media & entertainment,media,no,no,no,black,,male
+,kanye west,,,,,,1.8,43,united states,media,media & entertainment,media,no,no,no,black,,male
